@@ -9,3 +9,4 @@ Change #6: made on terminal w/ profile email as global user.email w/ L2 protecti
 Change #7: made on terminal w/ profile email as global user.email w/ L1 protection
 Change #8:  
 Change #9: gmail not associated with any github activity
+Change #10: new email
