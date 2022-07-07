@@ -10,4 +10,6 @@ Change #7: made on terminal w/ profile email as global user.email w/ L1 protecti
 Change #8:  
 Change #9: gmail not associated with any github activity
 Change #10: new email
-Change #11: made on a fork by user2  
+Change #11: made on a fork by user2 w/ private email address 1  
+Change #12: made on a fork by user2 w/ private email address 2  
+
